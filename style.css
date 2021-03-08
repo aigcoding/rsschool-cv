@@ -1,1 +1,24 @@
+body {
+  background-color:#b8b9bb;
 
+}
+.header
+ {
+  margin:0 auto;
+  width: 50%;
+  text-align: center;  
+  
+}
+.main{
+  margin:0 auto;
+  padding: 10px 10px;
+  width: 50%;
+  background-color:#ffffff;
+
+}
+.footer{
+  margin:0 auto;
+  padding: 10px 10px;
+  text-align: center;
+  width: 50%;
+}
