@@ -13,6 +13,7 @@ e-mail: aig.coding@gmail.com
 I have the skills to administer the Windows operating system, switches from Cisco and HP, I know a little about a mile in HTML & CSS
 
 ## Code examples
+Code HTML
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -26,6 +27,7 @@ I have the skills to administer the Windows operating system, switches from Cisc
 </body>
 </html>
 ```
+Code JavaScript
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
