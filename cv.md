@@ -24,9 +24,12 @@
 ## Code examples
     var s = "JavaScript syntax highlighting";
     alert(s);
+
 ## Experience
 No
+
 ## Education
+
 * Currently studying at [RS School](https://rs.school/)
 * Higher technical degree in the specialty “Electromechanics”
 
