@@ -21,8 +21,7 @@
 * Git
 * Linux
 ## Code examples
-    var s = "JavaScript syntax highlighting";
-    alert(s);
+    <p>Hello world<\p>
 ## Experience
 No
 ## Education
