@@ -24,7 +24,6 @@
 ## Code examples
     var s = "JavaScript syntax highlighting";
     alert(s);
-
 ## Experience
 No
 
