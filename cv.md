@@ -10,7 +10,7 @@
 
 ## About Me
 
-**Purpose:**
+**Purpose:** interesting tasks, new acquaintances, money, remote work and the opportunity to make the world a little better<br>
 **Strengths:** high self-learning ability, perseverance, sociability, responsibility for their actions and decisions made, adequately perceive criticism
 
 ## Skills
@@ -21,4 +21,15 @@
 * Git
 * Linux
 
+## Code examples
+    var s = "JavaScript syntax highlighting";
+    alert(s);
+## Experience
+No
+## Education
+* Currently studying at [RS School](https://rs.school/)
+* Higher technical degree in the specialty “Electromechanics”
+
+## English language
+Started learning the language in [Duolingo](https://www.duolingo.com/)
 
