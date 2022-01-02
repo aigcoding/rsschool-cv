@@ -50,6 +50,11 @@ html {
         letter-spacing: 1px;
         color: #ffffff;
     }
+    .header-hr {
+        width: 10%;
+        size: 2px;
+        background-color:#ffffff;
+    }
 .nav-list {
     display: flex;
     justify-content: center;
