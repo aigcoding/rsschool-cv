@@ -7,6 +7,9 @@ html {
   }
 
   body {
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;   
@@ -102,3 +105,23 @@ html {
     text-decoration: none;
     background: #f2c100;
   }
+  .footer {
+    padding-bottom: 20px;
+  }
+ .footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 100px;
+  color: #fff;
+ }
+ .footer-hr {
+  border: none;
+  width: 85%;  
+  text-align: center;
+  border-top: 2px solid #f2c100;
+ }
+.rs-school {
+  width: 100px;
+  
+}
